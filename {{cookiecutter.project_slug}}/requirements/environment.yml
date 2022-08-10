@@ -1,4 +1,6 @@
-prefix: ./env
+# To create this environment use the following command
+# (in main project directory):
+# conda env create -p ./env --file requirements/environment.yml
 channels:
   - conda-forge
   - defaults
